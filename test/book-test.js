@@ -1,5 +1,6 @@
 var assert = require("chai").assert;
 
+//TODO: ASK! How do lines 4-11 work behind the scenes?
 var {
   createTitle,
   buildMainCharacter,
